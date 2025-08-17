@@ -2,7 +2,9 @@
 
 This Python script automates searching the [Wisconsin Circuit Court Access (CCAP)](https://wcca.wicourts.gov) website using Selenium. It fills out the search form with a first name, last name, optional middle name, and optional date of birth.
 
-> ⚠️ Note: This script is intended for personal, lawful use and respects CCAP website's terms of service. Inspired by an episode of Armchair Anonymous, automates case lookup by name for women using dating apps (only customized to the Wisconsin court website) or whatever other use cases!
+> ⚠️ Note: This script is intended for personal, lawful use and respects CCAP website's terms of service.
+
+Inspired by an episode of Armchair Anonymous, automates case lookup by name for women using dating apps (only customized to the Wisconsin court website) or whatever other use cases!
 
 ---
 
